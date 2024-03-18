@@ -3,7 +3,7 @@ A collection of jupyter notebooks that show workings of some common models poste
 
 How to run:
 
-To run these notebooks make sure you have the dependencies installed as mentioned in each notebook. Make sure you have enouggh bandwidth to use the models as they are quite large in size. 
+To run these notebooks make sure you have the dependencies installed as mentioned in each notebook. Make sure you have enough bandwidth to use the models as they are quite large in size. 
 
 Remove the "./" from the model name when running to download the model.
 
