@@ -7,4 +7,4 @@ To run these notebooks make sure you have the dependencies installed as mentione
 
 Remove the "./" from the model name when running to download the model.
 
-added mistral chat and stable diffusion, download models separately.
+added mistral chat and stable diffusion, download models separately. ///
